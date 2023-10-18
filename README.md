@@ -21,7 +21,7 @@ Class `Matrik` memiliki elemen yang berupa pecahan (`Pecahan`) dan operasi berik
 
 ### Capture Program
 Berikut adalah tangkapan layar hasil program:
-![Capture Hasih](output.PNG)
+![Capture Hasih](output.png)
 
 ### Catatan
 Proyek ini merupakan contoh implementasi operasi matematika pada pecahan dan matriks menggunakan bahasa pemrograman Java. Operasi matriks seperti perkalian dan inversi memerlukan pemahaman yang mendalam tentang teori matriks, dan proyek ini memberikan gambaran umum tentang bagaimana operasi ini dapat diimplementasikan dalam kode Java.
